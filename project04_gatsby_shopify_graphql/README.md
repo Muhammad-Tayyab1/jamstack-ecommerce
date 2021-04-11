@@ -38,29 +38,4 @@
 [Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
 
 
-[Building Project 04/example01 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
-
-[Building Project 04/example01 Video in English on YouTube](https://www.youtube.com/watch?v=Unz_REIRjpg)
-
-[Building Project 04/example01 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225025711294842/)
-
-[Building Project 04 Video/example01 in Urdu on YouTube](https://www.youtube.com/watch?v=tNcpbyt0a6g)
-
-[Building Project 04 Part 2 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225072595506918)
-
-[Building Project 04 Part 2 Video in English on YouTube](https://www.youtube.com/watch?v=Qn16dqu7jKc)
-
-[Building Project 04 Part 2 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225081196721943)
-
-[Building Project 04 Part 2 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mz2ChgziBBk)
-
-[Building Project 04 Part 3 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
-
-[Building Project 04 Part 3 Video in English on YouTube](https://www.youtube.com/watch?v=xeAw__ofxtc)
-
-[Building Project 04 Part 3 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225107438537972)
-
-[Building Project 04 Part 3 Video in Urdu on YouTube](https://www.youtube.com/watch?v=-grjtMNprWI)
-
-
 
