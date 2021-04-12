@@ -3,13 +3,7 @@
 If you don't have web programming background or don't know React or Serverless we suggest you start from this [app development foundation bootcamp](https://panacloud.github.io/bootcamp-2020/) and [JAMstack Serverless Repo](https://github.com/panacloud-modern-global-apps/jamstack-serverless).
 
 
-[Intro Class in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
 
-[Intro Class in English on YouTube](https://www.youtube.com/watch?v=u3KOcuxvb5w)
-
-[Intro Class in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
-
-[Intro Class in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
 
 [What is Ecommerce?](https://www.shopify.com/encyclopedia/what-is-ecommerce)
 
